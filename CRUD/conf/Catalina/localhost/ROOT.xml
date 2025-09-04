@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\anhth\Downloads\baitap03\baitap03\CRUD\src\main\webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/anhth/Downloads/baitap03/baitap03/CRUD/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/anhth/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.2.jar"/>
+    <PostResources base="C:/Users/anhth/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.0/jakarta.servlet.jsp.jstl-3.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.0.jar"/>
+    <PostResources base="C:/Users/anhth/.m2/repository/jakarta/el/jakarta.el-api/6.0.0/jakarta.el-api-6.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-api-6.0.0.jar"/>
+    <PostResources base="C:/Users/anhth/.m2/repository/org/mongodb/mongodb-driver-sync/5.2.0/mongodb-driver-sync-5.2.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mongodb-driver-sync-5.2.0.jar"/>
+    <PostResources base="C:/Users/anhth/.m2/repository/org/mongodb/bson/5.2.0/bson-5.2.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/bson-5.2.0.jar"/>
+    <PostResources base="C:/Users/anhth/.m2/repository/org/mongodb/mongodb-driver-core/5.2.0/mongodb-driver-core-5.2.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mongodb-driver-core-5.2.0.jar"/>
+    <PostResources base="C:/Users/anhth/.m2/repository/org/mongodb/bson-record-codec/5.2.0/bson-record-codec-5.2.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/bson-record-codec-5.2.0.jar"/>
+  </Resources>
+</Context>
